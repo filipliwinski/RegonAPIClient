@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RegonAPIClient", "RegonAPIClient\RegonAPIClient.csproj", "{6253783E-7DF3-4999-A965-9785DE73F7BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegonAPIClient.Demo", "RegonAPIClient.Demo\RegonAPIClient.Demo.csproj", "{BDC0B829-F967-4868-A7F6-9292927021E6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{282C0F7F-4A3E-45D6-BCAD-4145063F1950}"
+	ProjectSection(SolutionItems) = preProject
+		..\README.md = ..\README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6253783E-7DF3-4999-A965-9785DE73F7BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6253783E-7DF3-4999-A965-9785DE73F7BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6253783E-7DF3-4999-A965-9785DE73F7BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6253783E-7DF3-4999-A965-9785DE73F7BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDC0B829-F967-4868-A7F6-9292927021E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDC0B829-F967-4868-A7F6-9292927021E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDC0B829-F967-4868-A7F6-9292927021E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDC0B829-F967-4868-A7F6-9292927021E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0ACF7F1-27DC-4CAE-AFF8-9BB2F6BF40ED}
+	EndGlobalSection
+EndGlobal
